@@ -40,20 +40,20 @@ export default function Contact() {
         {/* Contact Info */}
         <div className="flex flex-col md:flex-row justify-center items-center gap-6 mb-10 text-gray-300">
           <a
-            href="mailto:your-email@example.com"
+            href="mailto:kashifmehmoodtech17@gmail.com"
             className="flex items-center gap-2 hover:text-cyan-400 transition-colors"
           >
             <FaEnvelope /> Email
           </a>
           <a
-            href="https://linkedin.com/in/your-linkedin"
+            href="https://www.linkedin.com/in/nabiha-javed-27316334b"
             target="_blank"
             className="flex items-center gap-2 hover:text-cyan-400 transition-colors"
           >
             <FaLinkedin /> LinkedIn
           </a>
           <a
-            href="https://github.com/your-github"
+            href="https://github.com/codewithnabiha37"
             target="_blank"
             className="flex items-center gap-2 hover:text-cyan-400 transition-colors"
           >

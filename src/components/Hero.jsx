@@ -23,7 +23,7 @@ export default function Hero() {
           </h1>
 
           <h2 className="text-2xl md:text-3xl text-gray-300">
-            Software Engineering Student | 4th Semester
+            Software Engineering Student | 5th Semester
           </h2>
 
           <p className="text-gray-400 text-lg">

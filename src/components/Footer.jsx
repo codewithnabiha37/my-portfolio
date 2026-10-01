@@ -12,13 +12,13 @@ export default function Footer() {
 
         {/* Social Icons */}
         <div className="flex gap-4">
-          <a href="mailto:your-email@example.com" className="hover:text-cyan-400 transition-colors">
+          <a href="mailto:javednabiha09@gmail.com" className="hover:text-cyan-400 transition-colors">
             <FaEnvelope size={18} />
           </a>
-          <a href="https://linkedin.com/in/your-linkedin" target="_blank" className="hover:text-cyan-400 transition-colors">
+          <a href="https://www.linkedin.com/in/nabiha-javed-27316334b" target="_blank" className="hover:text-cyan-400 transition-colors">
             <FaLinkedin size={18} />
           </a>
-          <a href="https://github.com/your-github" target="_blank" className="hover:text-cyan-400 transition-colors">
+          <a href="https://github.com/codewithnabiha37" target="_blank" className="hover:text-cyan-400 transition-colors">
             <FaGithub size={18} />
           </a>
         </div>
