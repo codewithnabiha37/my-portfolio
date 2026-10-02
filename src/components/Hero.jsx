@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import HeroImage from "../assets/image.png"; // check your image path
+import HeroImage from "../assets/about.png"; // check your image path
 
 export default function Hero() {
   return (
