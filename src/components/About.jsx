@@ -31,7 +31,7 @@ export default function About() {
             My interests include Frontend Development, Backend Development, and Learning New Technologies.
           </p>
 
-          <button className="px-8 py-3 rounded-xl bg-cyan-400/10 text-cyan-400 border border-cyan-400/30 
+          <button  className="px-8 py-3 rounded-xl bg-cyan-400/10 text-cyan-400 border border-cyan-400/30 
             hover:shadow-[0_0_15px_rgba(6,182,212,0.5)] hover:scale-105 transition-all duration-300 backdrop-blur-lg">
             View Projects
           </button>
