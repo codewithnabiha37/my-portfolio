@@ -3,8 +3,8 @@ export const projects = [
     title: "Portfolio Website",
     description: "A personal portfolio website to showcase my projects and skills.",
     techStack: ["React", "Tailwind CSS", "Framer Motion"],
-    liveDemo: "#",
-    github: "#",
+    liveDemo: "https://my-portfolio-sage-one-20.vercel.app/",
+    github: "https://github.com/codewithnabiha37/my-portfolio",
   },
   {
     title: "Student Management System",

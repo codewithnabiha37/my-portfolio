@@ -24,7 +24,7 @@ export default function About() {
           </h1>
 
           <p className="text-gray-400 text-lg md:text-xl leading-relaxed">
-            Hi! I'm <span className="text-cyan-400">Nabiha Javed</span>, a 4th Semester Software Engineering student at <span className="text-cyan-400">Kohat University of Science and Technology (KUST)</span>. I love building modern web applications with clean UI and scalable backend systems.
+            Hi! I'm <span className="text-cyan-400">Nabiha Javed</span>, a 5th Semester Software Engineering student at <span className="text-cyan-400">Kohat University of Science and Technology (KUST)</span>. I love building modern web applications with clean UI and scalable backend systems.
           </p>
 
           <p className="text-gray-400 text-lg md:text-xl leading-relaxed">
